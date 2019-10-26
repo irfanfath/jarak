@@ -1,0 +1,16 @@
+[
+      {
+        "City": "City A",
+        "Position": {
+            "Longitude": 9.96233,
+            "Latitude": 49.80404
+        }
+      },
+      {
+        "City": "City B",
+        "Position": {
+            "Longitude": 6.11499,
+            "Latitude": 50.76891
+          }
+       }
+    ]

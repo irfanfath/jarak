@@ -1,0 +1,18 @@
+[
+    {
+    "nama":"Anggota A",
+    "suhu":"20 Derajat",
+    "detakjantung":"140",
+    "Longitude":"9.34243824",
+    "Latitude":"6.34239482",
+    "jarak":0
+    },
+    {
+    "nama":"Anggota B",
+    "suhu":"25 Derajat",
+    "detakjantung":"115",
+    "Longitude":"8.73482492",
+    "Latitude":"7.34102423",
+    "jarak":0
+    }
+]
